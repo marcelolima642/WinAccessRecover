@@ -1,0 +1,2 @@
+# WinAccessRecover
+“Windows Access Recover”, como o próprio nome sugere, é uma aplicação gráfica desenvolvida para ativar ou reativar algumas das principais configurações de segurança existentes do Windows. Ele reabilita ferramentas que foram bloqueadas por ação de trojans, vírus, usuários inescrupulosos ou pelo próprio administrador do sistema. Em qualquer um dos casos, o programa é essencial na resolução desses problemas.
